@@ -76,19 +76,19 @@
     "url": "https://productraid.com/",
     "icon": "https://icons.duckduckgo.com/ip3/productraid.com.ico",
     "slug": "product-raid",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1458,
-    "timeDay": 1574,
-    "timeWeek": 1306,
-    "timeMonth": 1458,
-    "timeYear": 1458,
+    "status": "up",
+    "uptime": "98.26%",
+    "uptimeDay": "61.59%",
+    "uptimeWeek": "94.51%",
+    "uptimeMonth": "98.26%",
+    "uptimeYear": "98.26%",
+    "time": 1454,
+    "timeDay": 1476,
+    "timeWeek": 1315,
+    "timeMonth": 1454,
+    "timeYear": 1454,
     "dailyMinutesDown": {
-      "2023-11-06": 0
+      "2023-11-06": 553
     }
   },
   {
