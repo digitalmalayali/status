@@ -4,10 +4,10 @@
     "url": "https://digitalmalayali.in",
     "icon": "https://icons.duckduckgo.com/ip3/digitalmalayali.in.ico",
     "slug": "digital-malayali-ml",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1602,
@@ -15,7 +15,9 @@
     "timeWeek": 1732,
     "timeMonth": 1579,
     "timeYear": 1602,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-25": 1
+    }
   },
   {
     "name": "Digital Malayali - EN",
@@ -77,11 +79,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/productraid.com.ico",
     "slug": "product-raid",
     "status": "up",
-    "uptime": "98.75%",
+    "uptime": "98.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.33%",
-    "uptimeYear": "98.75%",
+    "uptimeYear": "98.77%",
     "time": 1277,
     "timeDay": 858,
     "timeWeek": 1088,
