@@ -4,9 +4,9 @@
     "url": "https://digitalmalayali.in",
     "icon": "https://icons.duckduckgo.com/ip3/digitalmalayali.in.ico",
     "slug": "digital-malayali-ml",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,16 +15,18 @@
     "timeWeek": 2045,
     "timeMonth": 1729,
     "timeYear": 1670,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-29": 0
+    }
   },
   {
     "name": "Digital Malayali - EN",
     "url": "https://en.digitalmalayali.in",
     "icon": "https://icons.duckduckgo.com/ip3/en.digitalmalayali.in.ico",
     "slug": "digital-malayali-en",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,17 +35,19 @@
     "timeWeek": 1002,
     "timeMonth": 1049,
     "timeYear": 1069,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-29": 0
+    }
   },
   {
     "name": "Radio",
     "url": "https://radio.digitalmalayali.in/public/stream",
     "icon": "https://icons.duckduckgo.com/ip3/radio.digitalmalayali.in.ico",
     "slug": "radio",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.79%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.78%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 389,
@@ -52,6 +56,7 @@
     "timeMonth": 328,
     "timeYear": 389,
     "dailyMinutesDown": {
+      "2024-02-29": 0,
       "2024-02-24": 21
     }
   },
@@ -60,9 +65,9 @@
     "url": "https://memes.digitalmalayali.in",
     "icon": "https://icons.duckduckgo.com/ip3/memes.digitalmalayali.in.ico",
     "slug": "memes",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -71,7 +76,9 @@
     "timeWeek": 118,
     "timeMonth": 121,
     "timeYear": 134,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-29": 0
+    }
   },
   {
     "name": "Product Raid",
@@ -100,9 +107,9 @@
     "url": "https://free-privacy-policy-generator.digitalmalayali.in",
     "icon": "https://icons.duckduckgo.com/ip3/free-privacy-policy-generator.digitalmalayali.in.ico",
     "slug": "privacy-policy-generator",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -111,16 +118,18 @@
     "timeWeek": 110,
     "timeMonth": 249,
     "timeYear": 160,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-29": 0
+    }
   },
   {
     "name": "Malayalam Privacy Policy Generator",
     "url": "https://malayalam-privacy-policy-generator.digitalmalayali.in",
     "icon": "https://icons.duckduckgo.com/ip3/malayalam-privacy-policy-generator.digitalmalayali.in.ico",
     "slug": "malayalam-privacy-policy-generator",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -129,16 +138,18 @@
     "timeWeek": 110,
     "timeMonth": 138,
     "timeYear": 132,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-29": 0
+    }
   },
   {
     "name": "Pappadam",
     "url": "https://pappadam.digitalmalayali.in",
     "icon": "https://icons.duckduckgo.com/ip3/pappadam.digitalmalayali.in.ico",
     "slug": "pappadam",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -147,16 +158,18 @@
     "timeWeek": 128,
     "timeMonth": 136,
     "timeYear": 151,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-29": 0
+    }
   },
   {
     "name": "Malayalam Invoice Generator",
     "url": "https://malayalam-invoice-generator.digitalmalayali.in",
     "icon": "https://icons.duckduckgo.com/ip3/malayalam-invoice-generator.digitalmalayali.in.ico",
     "slug": "malayalam-invoice-generator",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -165,6 +178,8 @@
     "timeWeek": 102,
     "timeMonth": 112,
     "timeYear": 125,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-29": 0
+    }
   }
 ]
