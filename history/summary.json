@@ -91,9 +91,9 @@
     "url": "https://productraid.com/",
     "icon": "https://icons.duckduckgo.com/ip3/productraid.com.ico",
     "slug": "product-raid",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.77%",
@@ -103,6 +103,7 @@
     "timeMonth": 1376,
     "timeYear": 1221,
     "dailyMinutesDown": {
+      "2024-06-07": 0,
       "2024-02-29": 50,
       "2024-01-20": 16,
       "2023-11-06": 730
