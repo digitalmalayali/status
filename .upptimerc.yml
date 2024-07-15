@@ -11,8 +11,6 @@ sites:
     url: https://radio.digitalmalayali.in/public/stream
   - name: Memes
     url: https://memes.digitalmalayali.in
-  - name: Product Raid
-    url: https://productraid.com/
   - name: Privacy Policy Generator
     url: https://free-privacy-policy-generator.digitalmalayali.in
   - name: Malayalam Privacy Policy Generator
