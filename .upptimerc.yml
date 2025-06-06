@@ -1,31 +1,34 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: digitalmalayali # Your GitHub organization or username, where this repository lives
+repo: status # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+  - name: Digital Malayali - ML
+    url: https://digitalmalayali.in
+  - name: Digital Malayali - EN
+    url: https://en.digitalmalayali.in
+  - name: Radio
+    url: https://radio.digitalmalayali.in/public/stream
+  - name: Memes
+    url: https://memes.digitalmalayali.in
+  - name: Privacy Policy Generator
+    url: https://free-privacy-policy-generator.digitalmalayali.in
+  - name: Malayalam Privacy Policy Generator
+    url: https://malayalam-privacy-policy-generator.digitalmalayali.in
+  - name: Pappadam
+    url: https://pappadam.digitalmalayali.in
+  - name: Malayalam Invoice Generator
+    url: https://malayalam-invoice-generator.digitalmalayali.in
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: status.digitalmalayali.in
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: Status
+  introTitle: "Find the status of all **Digital Malayali** websites here!"
+  introMessage: 
   navbar:
     - title: Status
       href: /
