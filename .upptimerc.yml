@@ -9,6 +9,8 @@ sites:
     url: https://en.digitalmalayali.in
   - name: Radio
     url: https://radio.digitalmalayali.in/public/stream
+  - name: Digital Malayali Studio
+    url: https://studio.digitalmalayali.in/
   - name: Memes
     url: https://memes.digitalmalayali.in
   - name: Privacy Policy Generator
