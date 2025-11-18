@@ -1,7 +1,7 @@
 url: https://radio.digitalmalayali.in/public/stream
-status: up
-code: 200
-responseTime: 446
-lastUpdated: 2025-11-17T23:08:45.575Z
+status: down
+code: 500
+responseTime: 93
+lastUpdated: 2025-11-18T12:40:23.030Z
 startTime: 2025-06-06T21:01:27.993Z
 generator: Upptime <https://github.com/upptime/upptime>
