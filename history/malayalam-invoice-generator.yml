@@ -1,7 +1,7 @@
 url: https://malayalam-invoice-generator.digitalmalayali.in
-status: up
-code: 200
-responseTime: 493
-lastUpdated: 2025-11-17T23:08:49.241Z
+status: down
+code: 500
+responseTime: 111
+lastUpdated: 2025-11-18T13:21:16.307Z
 startTime: 2025-06-06T21:01:30.269Z
 generator: Upptime <https://github.com/upptime/upptime>
